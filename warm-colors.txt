@@ -1,3 +1,5 @@
 red
 orange
-yellow/n maroon
+yellow 
+maroon
+another warm color
